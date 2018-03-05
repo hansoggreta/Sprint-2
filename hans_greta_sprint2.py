@@ -1,4 +1,5 @@
 #Hans og Gréta
+#Ver.1.2
 class HansogGreta(object):
      def getName(self): pass
      def getDescription(self): pass
